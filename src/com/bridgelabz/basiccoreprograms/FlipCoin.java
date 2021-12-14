@@ -14,8 +14,8 @@ public class FlipCoin {
 	 	    }
 	    double precentageOftails = (tails * 100)/ numOfFilp;
 	    double precentageOfheads = 100 - precentageOftails;
-	    System.out.println(precentage_Of_tails);
-	    System.out.println(precentage_Of_heads);
+	    System.out.println(precentageOftails);
+	    System.out.println(precentageOfheads);
 
 	}
 
